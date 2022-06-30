@@ -1,0 +1,36 @@
+{
+    "name": "Remitt List",
+    "logoURI": "https://static.remitt.ai/favicon.ico",
+    "timestamp": 1656404109000,
+    "version": {
+        "major": 1,
+        "minor": 1,
+        "patch": 1
+    },
+    "tokens": [
+        {
+            "symbol": "USDT",
+            "name": "Tether USD",
+            "address": "TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t",
+            "chainId": 1,
+            "decimals": 6,
+            "logoURI": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@bea1a9722a8c63169dcc06e86182bf2c55a76bbc/128/icon/usdt.png"
+        },
+        {
+            "symbol": "USDC",
+            "name": "USD Coin",
+            "address": "TEkxiTehnzSmSe2XqrBj4w32RUN966rdz8",
+            "chainId": 1,
+            "decimals": 6,
+            "logoURI": "https://cdn.jsdelivr.net/gh/atomiclabs/cryptocurrency-icons@bea1a9722a8c63169dcc06e86182bf2c55a76bbc/128/icon/usdc.png"
+        },
+        {
+            "symbol": "USDR",
+            "name": "Remitt USD",
+            "address": "TFFxGGpVqxCDvo6upD3od5dFNtiRMv4Hc4",
+            "chainId": 1,
+            "decimals": 6,
+            "logoURI": "https://static.remitt.ai/usdr.png"
+        }      
+    ]
+}
